@@ -37,7 +37,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-OdbBnAJvFW7Jm6COkOGxzAJ\/PaxuK+Vuf9hD7ddTVlw=",
+      "hash": "sha256-9PfqbaxtwsquefuVauYlBAXY8wUYkfiXbI7Qglt2VQk=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -49,11 +49,11 @@
       "url": "_framework\/Blazored.Toast.wasm"
     },
     {
-      "hash": "sha256-kgBI7CRBkXwLSy6ugyS2nq2Nb\/sl0DAXQwcCzhCIuWw=",
+      "hash": "sha256-huzO+mxBaux\/GzQeSjN1yJwfBBT34s\/PYJ4KXGCdQHg=",
       "url": "_framework\/Crosswords.wasm"
     },
     {
-      "hash": "sha256-YJY\/ZeF7QsZbtLJXRxlwdOsYaOUADofWIrCR9RiUBjM=",
+      "hash": "sha256-RahlJYPJibg3u+UGaE1U3L7KRAgMhvrFzWAOOniqoUc=",
       "url": "_framework\/Microsoft.AspNetCore.Components.wasm"
     },
     {
@@ -141,7 +141,7 @@
       "url": "_framework\/System.Net.Primitives.wasm"
     },
     {
-      "hash": "sha256-SlwlFxcXZXWXLbYf3NG71CryBDC5VckVsVQt\/kpycjM=",
+      "hash": "sha256-Oi6Ra6AIz\/XfpBevGdUN\/7j45ZcXE+yw4fGgl3w9IXc=",
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
@@ -173,7 +173,7 @@
       "url": "_framework\/System.Threading.wasm"
     },
     {
-      "hash": "sha256-p67dJFq1sDQZHgizj1TeGZ3ZCAMDjJTGRJWz730OXG8=",
+      "hash": "sha256-HoEL0gmfURM0GEB2XlkxWL4FC3\/Blmn9JcihbiZuisA=",
       "url": "appsettings.json"
     },
     {
@@ -201,5 +201,5 @@
       "url": "_content\/Blazored.Toast\/Blazored.Toast.bundle.scp.css"
     }
   ],
-  "version": "jicbgSu6"
+  "version": "8pE+TNdv"
 };
